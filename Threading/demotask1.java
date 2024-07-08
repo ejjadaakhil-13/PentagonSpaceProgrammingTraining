@@ -1,4 +1,4 @@
-package exponentialCalculation;
+package Threading;
 
 
 import java.util.Scanner;
