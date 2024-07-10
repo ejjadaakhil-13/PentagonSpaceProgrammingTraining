@@ -1,4 +1,3 @@
-package patternPrograms;
 
 public class tringlePattern4 {
     public static void main(String[] args) {

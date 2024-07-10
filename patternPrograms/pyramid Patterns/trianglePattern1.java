@@ -1,4 +1,3 @@
-package patternPrograms;
 
 public class trianglePattern1 {
 

@@ -1,4 +1,3 @@
-package patternPrograms;
 
 public class kPattern {
     public static void main(String[] args) {
