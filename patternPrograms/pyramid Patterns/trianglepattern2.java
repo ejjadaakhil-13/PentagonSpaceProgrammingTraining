@@ -13,6 +13,8 @@ public class trianglepattern2 {
 
 
 /*
+
+
 * * * * *
 
 * * * *
@@ -22,5 +24,7 @@ public class trianglepattern2 {
 * *
 
 *
+
+
 
 */
