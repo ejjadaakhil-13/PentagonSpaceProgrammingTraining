@@ -7,7 +7,7 @@ public class traiangle6 {
                 System.out.print(" ");
             }
             for(int k=n;k>=i;--k){
-                if(i==1 || i==n || k==i || k==1 ||k==n){
+                if( i==1 || i==n || k==i || k==1 || k==n ){
                     System.out.print("* ");
                 }
                 else{
@@ -35,4 +35,17 @@ public class traiangle6 {
 
 
 
+
+
  */
+
+
+/*
+
+leetcode 88
+
+70
+
+125
+
+*/
