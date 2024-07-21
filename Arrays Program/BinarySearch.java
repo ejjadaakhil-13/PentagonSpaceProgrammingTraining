@@ -14,8 +14,9 @@ public class BinarySearch {
                 start=mid+1;
             }
         }
-return -1;
+    return -1;
     }
+    
     public static void main(String[] args) {
         int tar=5;
         int[] a1={1,3,5,6};

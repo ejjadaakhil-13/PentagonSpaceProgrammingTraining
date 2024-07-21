@@ -2,7 +2,7 @@ package assingment;
 
 public class assingment {
     public static void main(String[] args) {
-        int arr1[]={50,58,61,72,89,100};
+        int arr1[]={50};
         int arr2[]={10,20};
         int size=arr1.length+arr2.length;
         int i=0, j=0;
