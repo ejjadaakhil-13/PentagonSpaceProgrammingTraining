@@ -11,5 +11,20 @@ public class LowerTOUpper {
             newString+=ch[i];
         }
         System.out.println(newString);
+
+        // using another string class variable
+
+         for(int i=0;i<ch.length;i++){
+            newString+=ch[i];
+        }
+        System.out.println(newString);
+
+        //using StringBuilder and toString
+
+        StringBuilder nstr=new StringBuilder();
+        for(int i=0;i<ch.length;i++){
+            nstr.append(ch[i]);
+        }
+        System.out.println(nstr.toString());
     }
 }
